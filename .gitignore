@@ -1,3 +1,6 @@
+#mcaddon
+*.mcaddon
+
 # Logs
 logs
 *.log

@@ -1,0 +1,6 @@
+.git/
+*.mcaddon
+install.bat
+.gitignore
+tar_exclude.txt
+README.md
