@@ -2,7 +2,7 @@
    "format_version": 2,
    "header" : {
       "description" : "复合资源包方便自用",
-      "name" : "Xiwangly的复合资源包",
+      "name" : "Xiwangly Pack",
       "uuid" : "20d7d26a-98a5-1c25-7be7-76aee2987a22",
       "version": [0, 0, 1],
         "min_engine_version": [ 1, 19, 50 ]
