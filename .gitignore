@@ -1,5 +1,6 @@
 #mcaddon
 *.mcaddon
+!Xiwangly的复合资源包.mcaddon
 
 # Logs
 logs
