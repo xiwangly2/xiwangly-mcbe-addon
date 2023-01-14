@@ -1,9 +1,4 @@
-.git/
+*.*
 7z2201-extra/
-*.mcaddon
-install.bat
-.gitignore
-tar_exclude.txt
-README.md
-Minecraft.lnk
-*.exe
+!behavior_pack/
+!resource_pack/
