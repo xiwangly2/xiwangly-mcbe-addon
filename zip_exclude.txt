@@ -1,4 +1,5 @@
 *.*
 7z2201-extra/
+backup/
 !behavior_pack/
 !resource_pack/

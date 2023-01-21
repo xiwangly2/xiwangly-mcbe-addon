@@ -1,0 +1,9 @@
+{
+  "namespace": "trade2",
+  "tier_stack_panel": {
+    "bindings": []
+  },
+  "trade_toggle": {
+    "$toggle_enabled_binding_name": "vorized"
+  }
+}

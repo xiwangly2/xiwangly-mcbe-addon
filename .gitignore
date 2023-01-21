@@ -2,6 +2,7 @@
 *.mcaddon
 !Xiwangly的复合资源包.mcaddon
 *.mcworld
+backup/
 
 # Logs
 logs
