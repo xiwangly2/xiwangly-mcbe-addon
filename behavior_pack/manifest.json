@@ -14,11 +14,5 @@
             "uuid": "1b10a572-a2cd-5d10-f0af-3a69e3bee0b9",
             "version": [0, 0, 1]
         }
-    ],
-    "dependencies": [
-        {
-            "uuid": "20d7d26a-98a5-1c25-7be7-76aee2987a22",
-            "version": [0, 0, 1]
-        }
     ]
 }
