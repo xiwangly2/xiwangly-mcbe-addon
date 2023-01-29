@@ -1,3 +1,23 @@
 # Xiwangly的复合资源包
 
 用于Minecraft基岩版
+
+## 提及的包
+
+[MCBE双语资源包](https://github.com/xiwangly2/Bilingual_zh-en_Minecraft)
+
+## 内容
+
+- [x] 新增语言：中英双语
+- [x] 南瓜头穿上时透明
+- [x] 地图背景透明
+- [x] 改动玩家头颅的材质（替换成了我自己用的皮肤）
+- [x] 改动画的图像（替换了了我自己的头像）
+- [x] 红石显示（寄了）
+- [x] 
+
+## 用法
+
+Windows 10以上系统运行`install.bat`，快速完成资源包的导入
+
+`export_mcworld.bat`用于快速导出世界存档
