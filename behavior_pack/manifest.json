@@ -1,15 +1,15 @@
 {
     "format_version": 2,
     "header": {
-        "description" : "复合资源包方便自用",
-        "name" : "Xiwangly Pack",
+        "description" : "复合行为包方便自用",
+        "name" : "Xiwangly Behavior Pack",
         "uuid": "9fe9aff2-574f-6a22-a63c-ef588e94ffc8",
         "version": [ 0, 0, 1 ],
-        "min_engine_version": [ 1, 19, 50 ]
+        "min_engine_version": [ 1, 16, 0 ]
     },
     "modules": [
         {
-            "description": "复合资源包方便自用",
+            "description": "复合行为包方便自用",
             "type": "data",
             "uuid": "1b10a572-a2cd-5d10-f0af-3a69e3bee0b9",
             "version": [0, 0, 1]
@@ -17,7 +17,7 @@
     ],
     "dependencies": [
         {
-            "uuid": "2e2374d7-32cf-6e17-30ea-256d397a6a8d",
+            "uuid": "3b76d5a0-eeae-a404-f665-96a9a634c1b8",
             "version": [0, 0, 1]
         }
     ]
