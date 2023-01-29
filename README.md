@@ -4,11 +4,17 @@
 
 ## 提及的包
 
+[Mojang/bedrock-samples](https://github.com/Mojang/bedrock-samples)
+
 [MCBE双语资源包](https://github.com/xiwangly2/Bilingual_zh-en_Minecraft)
+
+快速合成
+
+红石区块显示
 
 ## 内容
 
-- [x] 新增语言：中英双语
+- [x] 新增语言：中英双语（`设置`-`通用`-`语言`选择`中英双语`）
 - [x] 南瓜头穿上时透明
 - [x] 地图背景透明
 - [ ] 改动玩家头颅的材质（替换成了我自己用的皮肤）
