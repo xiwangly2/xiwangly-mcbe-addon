@@ -3,14 +3,14 @@
     "header": {
         "description": "复合资源包方便自用",
         "name": "Xiwangly Pack",
-        "uuid": "20d7d26a-98a5-1c25-7be7-76aee2987a22",
-        "version": [0, 0, 4],
+        "uuid": "3d1e8807-d6ae-415c-aaa1-2ddf04a37c15",
+        "version": [1, 0, 0],
         "min_engine_version": [1, 16, 0]
     },
     "modules": [{
         "description": "复合资源包方便自用",
         "type": "resources",
-        "uuid": "3b76d5a0-eeae-a404-f665-96a9a634c1b8",
-        "version": [0, 0, 4]
+        "uuid": "ffb6e7f6-014c-49c5-be41-0e702e7e2ecf",
+        "version": [1, 0, 0]
     }]
 }

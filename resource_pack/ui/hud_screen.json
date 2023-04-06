@@ -12,8 +12,6 @@
                     "orientation": "horizontal",
                     "size": [48, 16],
                     "controls": [
-                        //https://lukaspah.github.io/item_aux_calculator/
-                        //{"recover@hud.item":{"property_bag":{"#item_id_aux":42336256}}},
                         { "compass@hud.item": { "property_bag": { "#item_id_aux": 22609920 } } },
                         { "clock@hud.item": { "property_bag": { "#item_id_aux": 22740992 } } }
                     ],
