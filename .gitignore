@@ -1,6 +1,6 @@
 #mcaddon
 *.mcaddon
-!Xiwangly的复合资源包.mcaddon
+!Xiwangly的复合包.mcaddon
 *.mcworld
 backup/*
 
